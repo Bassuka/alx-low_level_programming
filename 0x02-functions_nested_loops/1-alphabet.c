@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - Entry point
- * Descritption - lowercase using new header
- * Return: Always 0 (Success)
+ * Print_alphabet_x10 - print the lowercase using new header
+ * Description: This function prints lowercase in aloop 
+ * small letters
  */
 void print_alphabet(void)
 {
