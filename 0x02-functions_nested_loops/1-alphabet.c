@@ -5,7 +5,18 @@
  * Descritption - lowercase using new header
  * Return: Always 0 (Success)
  */
-void print_alphabet(void) /* call function inside main c */
+void print_alphabet(void)
+/*
+ * print_alphabet
+ *
+ * This function prints the alphabet to the console.
+ *
+ * Parameters:
+ *   None.
+ *
+ * Returns:
+ *   None.
+ */
 {
 	int i;
 
