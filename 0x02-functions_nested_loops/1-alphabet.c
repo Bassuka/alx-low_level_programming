@@ -5,7 +5,7 @@
  * Descritption - lowercase using new header
  * Return: Always 0 (Success)
  */
-void print_alphabet(void)
+void print_alphabet(void) /* call function inside main c */
 {
 	int i;
 
