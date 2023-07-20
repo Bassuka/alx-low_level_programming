@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * Print_alphabet_x10 - print the lowercase using new header
- * Description: This function prints lowercase in aloop 
+ * Print_alphabet - print the lowercase using new header
+ * Description: This function prints lowercase in aloop
  * small letters
  */
 void print_alphabet(void)
